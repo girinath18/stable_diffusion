@@ -12,7 +12,7 @@ Supports various text inputs for diverse image generation
 
 Setup
 Clone the Repository: Clone this repository to your local machine using:
-git clone https://github.com/your/repository.git
+git clone [https://github.com/your/repository.git](https://github.com/girinath18/stable_diffusion/blob/main/Stable_diffusion_model.ipynb)
 
 Install Dependencies: Install the required dependencies by running:
 pip install -r requirements.txt
